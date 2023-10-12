@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\Tarea2\Tarea2\obj\Debug\Tarea2.vbproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Tarea2\Tarea2\obj\Debug\Tarea2.Calculadora.resources
+C:\Users\HP\source\repos\Tarea2\Tarea2\obj\Debug\Tarea2.Resources.resources
+C:\Users\HP\source\repos\Tarea2\Tarea2\obj\Debug\Tarea2.vbproj.GenerateResource.cache
+C:\Users\HP\source\repos\Tarea2\Tarea2\obj\Debug\Tarea2.vbproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Tarea2\Tarea2\bin\Debug\CalculadoraT2.exe.config
+C:\Users\HP\source\repos\Tarea2\Tarea2\bin\Debug\CalculadoraT2.exe
+C:\Users\HP\source\repos\Tarea2\Tarea2\bin\Debug\CalculadoraT2.pdb
+C:\Users\HP\source\repos\Tarea2\Tarea2\bin\Debug\CalculadoraT2.xml
+C:\Users\HP\source\repos\Tarea2\Tarea2\obj\Debug\CalculadoraT2.exe
+C:\Users\HP\source\repos\Tarea2\Tarea2\obj\Debug\CalculadoraT2.xml
+C:\Users\HP\source\repos\Tarea2\Tarea2\obj\Debug\CalculadoraT2.pdb
+C:\Users\HP\source\repos\Tarea2\Tarea2\obj\Debug\Tarea2.CalcuAvisos1.resources
